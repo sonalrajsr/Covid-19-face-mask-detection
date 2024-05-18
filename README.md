@@ -1,1 +1,3 @@
-# Covid-19-face-mask-detection
+# Covid 19 Face Mask Detection System
+
+This project is a machine learning application designed to detect whether a person is wearing a face mask or not. Using a convolutional neural network (CNN) based on the VGG16 architecture, the model is trained to classify images into two categories: "with mask" and "without mask." The goal is to assist in monitoring and ensuring compliance with mask-wearing guidelines, which is crucial during the Covid-19 pandemic.
