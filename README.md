@@ -7,4 +7,3 @@ With Mask
 ![App Screenshot](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/88aaa7ac-c9af-4e2f-bf49-169a44fa2600)
 Without Mask
 ![App Screenshot](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/00cfff20-d216-4cab-94eb-c9f9119b8de7)
-
