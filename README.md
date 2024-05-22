@@ -7,7 +7,7 @@ This project is a machine learning application designed to detect whether a pers
 ![App Screenshot](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/00cfff20-d216-4cab-94eb-c9f9119b8de7)
 
 ## Dataset Link
-https://drive.google.com/drive/folders/1umyQ9I1G4n_o_NUBdoGkpLCPXDDinJkc?usp=sharing
+https://universe.roboflow.com/pyimagesearch/covid-19-pis/?ref=pyimagesearch
 
 ## Labels 
 - 0 = Without Mask
