@@ -25,5 +25,6 @@ data = []
   random.shuffle(data)
   ```
 ## Output Images
-![Screenshot 2024-06-10 175452](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/afeb187a-ec21-491f-9808-b237a6a0fddd)
+![image](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/c01f69ab-cedd-4c4a-b58a-ea75ecc90b90)
+![image](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/8b189a55-0ae7-4379-b209-1013afb82f77)
 
