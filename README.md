@@ -24,3 +24,8 @@ data = []
   ```bash
   random.shuffle(data)
   ```
+## Output Images
+![Screenshot 2024-06-10 175452](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/afeb187a-ec21-491f-9808-b237a6a0fddd)
+![Screenshot 2024-06-10 175452](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/afeb187a-ec21-491f-9808-b237a6a0fddd)
+![image](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/16b17338-30af-47d8-9729-680206ebbcc4)
+![image](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/16b17338-30af-47d8-9729-680206ebbcc4)
