@@ -24,7 +24,9 @@ data = []
   ```bash
   random.shuffle(data)
   ```
-## Output Images
+## Output Result with mask
 ![image](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/c01f69ab-cedd-4c4a-b58a-ea75ecc90b90)
+
+## Output Result without mask
 ![image](https://github.com/sonalrajsr/Covid-19-face-mask-detection/assets/123736054/8b189a55-0ae7-4379-b209-1013afb82f77)
 
